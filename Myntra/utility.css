@@ -1,0 +1,21 @@
+.flex{
+    display: flex;
+}
+.justify-center{
+    justify-content: center;
+}
+.align-center{
+    align-items: center;
+}
+.uppercase-item{
+    text-transform: uppercase;
+}
+.cursor_pointer{
+    cursor: pointer;
+}
+.font_header{
+    font-family: 'Kanit', sans-serif;
+}
+.font_bold{
+    font-weight: bold;
+}
